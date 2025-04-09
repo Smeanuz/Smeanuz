@@ -4,7 +4,8 @@ Hi there! 👋 I'm passionate about coding, learning, and building awesome proje
 
 ## About Me
 
-- 💻 Software Developer with a focus on [your expertise, e.g., web development, data science, etc.].
+- 🎓 Currently a student at **Ho Chi Minh city of Technology (HCMUT)** - Faculty of **Electrical and Electronics Engineering**.
+- 💻 Embedded developer with a focus on **Embedded System, IoT, and Low-level Programing**.
 - 🌱 Currently learning [technologies or skills you're learning].
 - 🚀 Always excited to collaborate on open-source projects and innovative ideas.
 
@@ -19,17 +20,8 @@ Check out my repositories for more!
 
 ## Get in Touch
 
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Visit my website: [your-website.com](https://your-website.com)
-- 💬 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me at: [nnminh1018@gmail.com](mailto:nnminh1018@gmail.com)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/smeanuz/)
 
 ---
 
-### How to Get the Icons
-
-The icons like 👋, 💻, 🌱, 🚀, 📫, 🌐, and 💬 are Unicode emojis. You can easily add them to your markdown by copying and pasting them from an emoji source, such as:
-
-- [Emojipedia](https://emojipedia.org/)
-- Your operating system's emoji picker (e.g., `Windows + .` on Windows or `Control + Command + Space` on macOS).
-
-Thanks for stopping by! 😊
