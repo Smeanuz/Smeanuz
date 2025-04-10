@@ -13,27 +13,32 @@ My full name is ``Nguyen Nhat Minh``, you can also call me ``Minh``.
 ## My Skills
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./Image/Git_icon.png" alt="Git" witdth="35" height="35"/>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="./Image/Git_icon.png" alt="Git" witdth="35" height="35"/>
     </a>
-    <a href="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio" target="_blank" rel="noreferrer"><img src="./Image/atmel_studio.png" alt="Atmel" witdth="35" height="35"/>
+    <a href="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio" target="_blank" rel="noreferrer">
+        <img src="./Image/atmel_studio.png" alt="Atmel" witdth="35" height="35"/>
     </a>
-    <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer"><img src="./Image/altium_logo.png" alt="Altium" witdth="35" height="35"/>
+    <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
+        <img src="./Image/altium_logo.png" alt="Altium" witdth="35" height="35"/>
     </a>
-    <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"><img src="./Image/stm32cube.svg" alt="CubeIDE" witdth="35" height="35"/>
+    <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+        <img src="./Image/stm32cube.svg" alt="CubeIDE" witdth="35" height="35"/>
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./Image/vscode.png" alt="VScode" witdth="35" height="35"/>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="./Image/vscode.png" alt="VScode" witdth="35" height="35"/>
     </a>
                     
 </p>
 
-<!-- ## My Projects
+## My Projects
 
 Here are some highlights of my work:
 
 - **[Project Name](https://github.com/your-username/project-name)**: A brief description of the project.
 - **[Another Project](https://github.com/your-username/another-project)**: A brief description of this project.
 
-Check out my repositories for more! -->
+Check out my repositories for more!
 
 ## Get in Touch
 
